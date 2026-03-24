@@ -1,3 +1,8 @@
+---
+name: npu-profiler
+description: 使用 torch_npu.profiler 分析算子性能，生成 Chrome Trace 格式的性能分析报告，包含 CPU 和 NPU 的性能数据收集。
+---
+
 # NPU Profiler
 
 这是一个使用torch_npu.profiler来分析算子性能的技能。
